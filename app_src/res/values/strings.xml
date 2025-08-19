@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Electrum</string>
+    <string name="bundle_local_qt_libs">1</string>
+    <string name="fatal_error_msg">Your application encountered a fatal error and cannot continue.</string>
+    <string name="presplash_color">\#000000</string>
+    <string name="private_version">50e043c66018dbe3af377b4ffe1bae35477cbb92</string>
+    <string name="static_init_classes">org.qtproject.qt.android.multimedia.QtAudioDeviceManager:org.qtproject.qt.android.multimedia.QtMultimediaUtils:org.kivy.android.PythonActivityInit</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="system_libs_prefix" />
+    <string name="unsupported_android_version">Unsupported Android version.</string>
+    <string name="urlScheme" />
+    <string name="use_local_qt_libs">1</string>
+</resources>

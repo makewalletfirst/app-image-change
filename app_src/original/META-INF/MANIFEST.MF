@@ -1,0 +1,447 @@
+Manifest-Version: 1.0
+Built-By: Signflinger
+Created-By: Android Gradle 7.1.2
+
+Name: AndroidManifest.xml
+SHA-256-Digest: 4Ixwul51U9ePLC/ljDEzVufV29IwJCGBpJIXF4e91sw=
+
+Name: META-INF/androidx.core_core.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: META-INF/androidx.lifecycle_lifecycle-runtime.version
+SHA-256-Digest: wo/MpTY3vIjhJK8XJd8Ty5jGne3v1i+zzb4c22t2BiQ=
+
+Name: META-INF/androidx.versionedparcelable_versionedparcelable.versio
+ n
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: META-INF/com/android/build/gradle/app-metadata.properties
+SHA-256-Digest: ThvkrxPodHZkhvkDqe7tDrkMNztYJ/OumvNxgVxCMTc=
+
+Name: assets/android_rcc_bundle.rcc
+SHA-256-Digest: 3z+rPbK4qq+oOR3PSPAyHxTzKHDa4dKRL0t2Tbwi2WE=
+
+Name: assets/private.tar
+SHA-256-Digest: /gL/OUdaY0dWD3BhWzyNf6yvTo2MHtWYPiUiEgrm/xw=
+
+Name: classes.dex
+SHA-256-Digest: NRS/GVA69tE4vUUC5ZQbUy1YU/vQFakM2niJRnzn53I=
+
+Name: classes2.dex
+SHA-256-Digest: ouZBqHQeBZg6PgmCm2hfPcHg3chtiwtuBLUA3Lx7IQU=
+
+Name: classes3.dex
+SHA-256-Digest: 4f50j9m4QyUZ7Ww8lwSA4Q62QAmu2FP9CSPGKVDp5JI=
+
+Name: classes4.dex
+SHA-256-Digest: ZQYGU7/vVeb9JrhMqglJBYyeH3BtHcxhd59e8So7ueM=
+
+Name: classes5.dex
+SHA-256-Digest: sZyaylegVYQAWTrF234vHlPVP8fyiHzUWprhzN2kNac=
+
+Name: classes6.dex
+SHA-256-Digest: VUFXszfeAmxNE69R2cx84ck3/H7v0ydDPZxKPiKQ/pI=
+
+Name: classes7.dex
+SHA-256-Digest: uWx3ZliIjquMWNxMCnimi0wTjRySKjEjvhhUj9B/WoU=
+
+Name: classes8.dex
+SHA-256-Digest: K1JqXMDw466L/KNkeQnopNdnPx9Um7b5chYnJpe6kqE=
+
+Name: kotlin/annotation/annotation.kotlin_builtins
+SHA-256-Digest: 98k+cGfKErqbPZTG5UDkwjy2/djJr/cEtVPKumUPw1c=
+
+Name: kotlin/collections/collections.kotlin_builtins
+SHA-256-Digest: U5uFwkA/bvBjgWGtmd97ESVkEulBEzXtLqOTGj79fHY=
+
+Name: kotlin/coroutines/coroutines.kotlin_builtins
+SHA-256-Digest: WabWMrip9duibyponDhl4ZU1HffDwIqhZp/g35+euIM=
+
+Name: kotlin/internal/internal.kotlin_builtins
+SHA-256-Digest: x2two9sezL5C6pGlNmfXZh7fxhVAnT1uV0tYQ7HioF4=
+
+Name: kotlin/kotlin.kotlin_builtins
+SHA-256-Digest: BjOsnDfpZVaSe9ciSl0xwJjhOxQW5IKQ1QvVAq7WLTs=
+
+Name: kotlin/ranges/ranges.kotlin_builtins
+SHA-256-Digest: tZwbWppJHfeZ7uICrZGTdgCb1Pgi1+n895wgs1BQOFI=
+
+Name: kotlin/reflect/reflect.kotlin_builtins
+SHA-256-Digest: 8AIcphQmJQ1rF+dt1fcyxZCM9n3K8zsEKaPq17GJQ4Y=
+
+Name: lib/arm64-v8a/libQt6Core_arm64-v8a.so
+SHA-256-Digest: pFiMCqQ8nD/BW3dXi1KTn4iDAwHOLoaJmOW8pW5p1rA=
+
+Name: lib/arm64-v8a/libQt6Gui_arm64-v8a.so
+SHA-256-Digest: ePwu27hyTJFyyJmNycybgQrCJG00rN0L64+9rfbbjd8=
+
+Name: lib/arm64-v8a/libQt6MultimediaQuick_arm64-v8a.so
+SHA-256-Digest: EaO6vj93C9BViDV6KL1ViqC0WwN4Jp+J4KpphhiJezc=
+
+Name: lib/arm64-v8a/libQt6Multimedia_arm64-v8a.so
+SHA-256-Digest: /tCis7Nrqymqek49FAGM5VtxHFchoJiq9nNMHlPdA0I=
+
+Name: lib/arm64-v8a/libQt6Network_arm64-v8a.so
+SHA-256-Digest: Zhav4mHBKBfSfk17qnpglc4U3QeDrOaJKrY5RMlTO1Y=
+
+Name: lib/arm64-v8a/libQt6OpenGL_arm64-v8a.so
+SHA-256-Digest: eeErvTfvXH0+EIqtdI56lc00gKPa/0o4J5RtfCy8sbg=
+
+Name: lib/arm64-v8a/libQt6QmlModels_arm64-v8a.so
+SHA-256-Digest: mUUEc0yfUgFbjqxwTpj9Y1IknLMZgMsdTokUxecgiMU=
+
+Name: lib/arm64-v8a/libQt6QmlWorkerScript_arm64-v8a.so
+SHA-256-Digest: iILXAWfFCjG/PR7pV2khOGT+D/hjUvje/02/aTCb24U=
+
+Name: lib/arm64-v8a/libQt6Qml_arm64-v8a.so
+SHA-256-Digest: lMXRHLaCmsIKVQitcN8uLWf6QtufmD83uMcKnebcjK4=
+
+Name: lib/arm64-v8a/libQt6QuickControls2Impl_arm64-v8a.so
+SHA-256-Digest: i2dWjOpD4N6i6aFD2ky94YMd42oBqeMQRjMivt1ThSA=
+
+Name: lib/arm64-v8a/libQt6QuickControls2_arm64-v8a.so
+SHA-256-Digest: GMxmwoAlo3gGTJ0ahHPpq9ADbelmX9pKWShEkjgOjqg=
+
+Name: lib/arm64-v8a/libQt6QuickDialogs2QuickImpl_arm64-v8a.so
+SHA-256-Digest: 0oaGDUlUEb31RP6dt4MKjsmOVWtaNcSqsX6gQsDO640=
+
+Name: lib/arm64-v8a/libQt6QuickDialogs2Utils_arm64-v8a.so
+SHA-256-Digest: 2NJFbfFjRjl9LAhG4WiIvfGnnVXWo4O8dJcnOqj98Ds=
+
+Name: lib/arm64-v8a/libQt6QuickDialogs2_arm64-v8a.so
+SHA-256-Digest: Gm96sDETxiriRuLBD0eym8vbrqltI7rOsEm0uPrvK6c=
+
+Name: lib/arm64-v8a/libQt6QuickLayouts_arm64-v8a.so
+SHA-256-Digest: YUy9Y2+/lunc0qsUQf8T9dP+ORg59hndwMokuR3Yx0Y=
+
+Name: lib/arm64-v8a/libQt6QuickShapes_arm64-v8a.so
+SHA-256-Digest: cUmjn92TztFhCZpSA8GM+BhD05+B5bZLjfKvf37SHNU=
+
+Name: lib/arm64-v8a/libQt6QuickTemplates2_arm64-v8a.so
+SHA-256-Digest: Q0gYhCs5RhuYcFKc4NOZvXvBfAV14QkgLKmONi0CVfk=
+
+Name: lib/arm64-v8a/libQt6Quick_arm64-v8a.so
+SHA-256-Digest: PdBDPJWjiLwVK+wL1Rgh1mkRLGgJy5M3siEFUktMyPg=
+
+Name: lib/arm64-v8a/libQt6ShaderTools_arm64-v8a.so
+SHA-256-Digest: nfz3ivYEvCOzHFM6qj9W7f1NoIj2U1XonacOrwKPNqQ=
+
+Name: lib/arm64-v8a/libQt6Svg_arm64-v8a.so
+SHA-256-Digest: zsrOO9THJSGzjoEI29Rx06vlacaX/80ocXLtivwDr9k=
+
+Name: lib/arm64-v8a/libc++_shared.so
+SHA-256-Digest: lfHdST7yh7TPa++6kbxPmUI1//52jdBVu7EMgYVN5pQ=
+
+Name: lib/arm64-v8a/libcrypto1.1.so
+SHA-256-Digest: DjaBsAyiZUDX4MHBaCRFl6h0NxQpaGnlkieAxRBEM0o=
+
+Name: lib/arm64-v8a/libffi.so
+SHA-256-Digest: CQeeE0xaI+jsJep8K7q8llhaKOIbvKoY/M0bl1JSEuc=
+
+Name: lib/arm64-v8a/libiconv.so
+SHA-256-Digest: 6jetX9WwciPUgkxHGt/sICETJnF+Xt2nW9bUQeSFzW8=
+
+Name: lib/arm64-v8a/libmain.so
+SHA-256-Digest: 5NT2B0vOsvY2PVi7ArkUg0+Z1sHEbcxmYy28KoAwhhQ=
+
+Name: lib/arm64-v8a/libplugins_iconengines_qsvgicon_arm64-v8a.so
+SHA-256-Digest: NV5N4UbrxMAfn2BkYUGM4WjKV5jNxmrFZeF1thIqsHU=
+
+Name: lib/arm64-v8a/libplugins_imageformats_qgif_arm64-v8a.so
+SHA-256-Digest: rI0dz/FHvBXEub0dItrOvyNyOUArqaDyT24jNpGTyoQ=
+
+Name: lib/arm64-v8a/libplugins_imageformats_qicns_arm64-v8a.so
+SHA-256-Digest: eJ+iGxfLeGbw9YHkVTR7cWtGV2gXk1U8yJcBD6HgOus=
+
+Name: lib/arm64-v8a/libplugins_imageformats_qico_arm64-v8a.so
+SHA-256-Digest: biYVlQQ8QTJufKahet2PUEgwdtrcm4Q0PDUt2FQE8+Y=
+
+Name: lib/arm64-v8a/libplugins_imageformats_qjpeg_arm64-v8a.so
+SHA-256-Digest: ROcZIINoHSt6V3aO9QWogTVl/mj/TzapoTwPyaMAF4E=
+
+Name: lib/arm64-v8a/libplugins_imageformats_qsvg_arm64-v8a.so
+SHA-256-Digest: whFxW18MiCMxK46WocHY7zMkmL6FNUBr3iJFbgzJ9mw=
+
+Name: lib/arm64-v8a/libplugins_imageformats_qtga_arm64-v8a.so
+SHA-256-Digest: Q91qjnDjbLiUtDl77bRDYHAKaTEXW3s/mhWZNHSdx3E=
+
+Name: lib/arm64-v8a/libplugins_imageformats_qtiff_arm64-v8a.so
+SHA-256-Digest: YwvaoN5NGcDMBKu/Mwgryx+mIgBI7whUfYhzFH4ggZA=
+
+Name: lib/arm64-v8a/libplugins_imageformats_qwbmp_arm64-v8a.so
+SHA-256-Digest: L5TVY8CWJQOZfbnQuKniAYYNxNimv7nZCNuPoYJwYKI=
+
+Name: lib/arm64-v8a/libplugins_imageformats_qwebp_arm64-v8a.so
+SHA-256-Digest: RnhWvOpFYcbOxyr1BYGoMQoXsiAMJb30pyrVAW07oLc=
+
+Name: lib/arm64-v8a/libplugins_multimedia_androidmediaplugin_arm64-v8a
+ .so
+SHA-256-Digest: arBVcxQFZdWyYO70jFo0eaUHEYG0TbwbECWqsFe2xXQ=
+
+Name: lib/arm64-v8a/libplugins_networkinformation_qandroidnetworkinfor
+ mation_arm64-v8a.so
+SHA-256-Digest: fFurUkJYjLQ3KWK6MBV0VhL5faqkewJz3ZuKMWVuHQc=
+
+Name: lib/arm64-v8a/libplugins_platforms_qtforandroid_arm64-v8a.so
+SHA-256-Digest: nrAPmcWCLomki7LcVmEf7H1fUKESLq5dTZFSWDrzJVg=
+
+Name: lib/arm64-v8a/libplugins_qmltooling_qmldbg_debugger_arm64-v8a.so
+SHA-256-Digest: HJQltmgQohULX9Cr6v2OKt/4kPYcQvblmC5fbOTpvfU=
+
+Name: lib/arm64-v8a/libplugins_qmltooling_qmldbg_inspector_arm64-v8a.s
+ o
+SHA-256-Digest: o2VCw6Hs6ZL9ocMiM2rgJJGlzpuLYSeer2HA2hjKkHQ=
+
+Name: lib/arm64-v8a/libplugins_qmltooling_qmldbg_local_arm64-v8a.so
+SHA-256-Digest: k/qSjRMls6vlC1bB89AHoRxZX8Pvwos/OuKhx4Y3Bwg=
+
+Name: lib/arm64-v8a/libplugins_qmltooling_qmldbg_messages_arm64-v8a.so
+SHA-256-Digest: 7r2s485M4mSBgZk6/D1uzPABezNqSCJUI57JIH117lc=
+
+Name: lib/arm64-v8a/libplugins_qmltooling_qmldbg_native_arm64-v8a.so
+SHA-256-Digest: Ujthf1A5BX0S+egPD8FQEHyHKnX4ZVNhgEpXMBytSp8=
+
+Name: lib/arm64-v8a/libplugins_qmltooling_qmldbg_nativedebugger_arm64-
+ v8a.so
+SHA-256-Digest: 1s0WXTVStPtRjaZTRHqc5qIzXeQmCoMclOrWiM/w/YI=
+
+Name: lib/arm64-v8a/libplugins_qmltooling_qmldbg_preview_arm64-v8a.so
+SHA-256-Digest: qS8Y7eJt1jzSzwokop0nYIubTysJgyiPVCr97VT/kAA=
+
+Name: lib/arm64-v8a/libplugins_qmltooling_qmldbg_profiler_arm64-v8a.so
+SHA-256-Digest: msnv+7DgVqmJS5RcPtWNHtz/KdZMynbSIC6SOf6No7g=
+
+Name: lib/arm64-v8a/libplugins_qmltooling_qmldbg_quickprofiler_arm64-v
+ 8a.so
+SHA-256-Digest: F1ze3TCdcb208Kfih6/A/JqpoOQw2XT+d+Nx6FdYOzE=
+
+Name: lib/arm64-v8a/libplugins_qmltooling_qmldbg_server_arm64-v8a.so
+SHA-256-Digest: KTy8GGbzZrcAmyOgPK6T+1amiZ7rr3QGzXrROjXW5t0=
+
+Name: lib/arm64-v8a/libplugins_qmltooling_qmldbg_tcp_arm64-v8a.so
+SHA-256-Digest: ugs6aPeTlUrQhl6LHi2DpzftFoChyZKtA9nUtsqWc8s=
+
+Name: lib/arm64-v8a/libplugins_tls_qcertonlybackend_arm64-v8a.so
+SHA-256-Digest: TBkrsqepGCDDaHNHULFYo9iM3P7QudySN9DF9pUCm10=
+
+Name: lib/arm64-v8a/libplugins_tls_qopensslbackend_arm64-v8a.so
+SHA-256-Digest: 7QU0JEicvGWBcwLy5JErDTi0o21s2d+Z0wwrdR4Xlmc=
+
+Name: lib/arm64-v8a/libpybundle.so
+SHA-256-Digest: xzF5QdYwE26XCRkwo8gmkIsQl7mlUTjENajYLwGxqpM=
+
+Name: lib/arm64-v8a/libpython3.10.so
+SHA-256-Digest: TSV7D0VposuWl7AbC3WYSp+HUBu5YDjYXioZ10lU8zQ=
+
+Name: lib/arm64-v8a/libqml_QtMultimedia_quickmultimediaplugin_arm64-v8
+ a.so
+SHA-256-Digest: b28gGMytpCqYglVZFKgRIJSwPz0720nn8+3i9Qu9VkM=
+
+Name: lib/arm64-v8a/libqml_QtQml_Models_modelsplugin_arm64-v8a.so
+SHA-256-Digest: /U8KTmY4cWDYtIEkhBBxA6KzDZxWMCn5vmzCddT2Kmo=
+
+Name: lib/arm64-v8a/libqml_QtQml_WorkerScript_workerscriptplugin_arm64
+ -v8a.so
+SHA-256-Digest: bFGeP7+im7q1Qj8r8cmpvn1JWtv7MTrxLrQQhtE/CsU=
+
+Name: lib/arm64-v8a/libqml_QtQml_qmlplugin_arm64-v8a.so
+SHA-256-Digest: Nodav3oEXCh+pyZWxRXZCMlnIvB4wLlApuxLed/4Pe8=
+
+Name: lib/arm64-v8a/libqml_QtQuick_Controls_Basic_impl_qtquickcontrols
+ 2basicstyleimplplugin_arm64-v8a.so
+SHA-256-Digest: H+6ev5NiYoRLS2i59uejq6dtUNYOCcL9dlYYw3eKlQA=
+
+Name: lib/arm64-v8a/libqml_QtQuick_Controls_Basic_qtquickcontrols2basi
+ cstyleplugin_arm64-v8a.so
+SHA-256-Digest: 6W8cAP5VBSWXiE7EUtZ0M+8CvMq9+QovV34cFweCwT4=
+
+Name: lib/arm64-v8a/libqml_QtQuick_Controls_Material_impl_qtquickcontr
+ ols2materialstyleimplplugin_arm64-v8a.so
+SHA-256-Digest: OWqckFwVpNIK0OUw7FCXVQ+5Fy6pzSBjR5lFG9J6Azc=
+
+Name: lib/arm64-v8a/libqml_QtQuick_Controls_Material_qtquickcontrols2m
+ aterialstyleplugin_arm64-v8a.so
+SHA-256-Digest: E6g7xAehU7KdEWSrfErQhbvu1OECEOXMDOnaq8CdOeU=
+
+Name: lib/arm64-v8a/libqml_QtQuick_Controls_impl_qtquickcontrols2implp
+ lugin_arm64-v8a.so
+SHA-256-Digest: H32xmg0j0JLiwUwN8Bf1Wwf9yGoFcS238tQKmy/uwEI=
+
+Name: lib/arm64-v8a/libqml_QtQuick_Controls_qtquickcontrols2plugin_arm
+ 64-v8a.so
+SHA-256-Digest: 3L7PtreYTxNk4MoArt9y5gJ3zFlI3m3FZ0n1usSXkgQ=
+
+Name: lib/arm64-v8a/libqml_QtQuick_Dialogs_qtquickdialogsplugin_arm64-
+ v8a.so
+SHA-256-Digest: SoU9SwjoIS+9Kf9gI9RPBlEHR/RI0+bM648ezGz3ysE=
+
+Name: lib/arm64-v8a/libqml_QtQuick_Dialogs_quickimpl_qtquickdialogs2qu
+ ickimplplugin_arm64-v8a.so
+SHA-256-Digest: ur2H5JEwBzJi/iP734hykoixZBRfYMh+TgY883h+fss=
+
+Name: lib/arm64-v8a/libqml_QtQuick_Layouts_qquicklayoutsplugin_arm64-v
+ 8a.so
+SHA-256-Digest: Z6v9SxHZqPLYiK8mbZxxUDZMJv3zRkWK1nwThgpPpds=
+
+Name: lib/arm64-v8a/libqml_QtQuick_LocalStorage_qmllocalstorageplugin_
+ arm64-v8a.so
+SHA-256-Digest: GduKyosqBXIl3OMPWx1fZFWA53XIWITZe+Nb+gC+GRc=
+
+Name: lib/arm64-v8a/libqml_QtQuick_Shapes_qmlshapesplugin_arm64-v8a.so
+SHA-256-Digest: 3mzBX36aHL+gfzkVAqWYneSONRGVCOFw1ztAR7XV8zM=
+
+Name: lib/arm64-v8a/libqml_QtQuick_Templates_qtquicktemplates2plugin_a
+ rm64-v8a.so
+SHA-256-Digest: lkR2Y5PGn2c+3qU7wvCBdeoSQW/8Ldhg9UdS+zaWVpI=
+
+Name: lib/arm64-v8a/libqml_QtQuick_Window_quickwindowplugin_arm64-v8a.
+ so
+SHA-256-Digest: b47Kvg9cu5MMBfaAnVjqsjFkUS0GJR3NnNoK24DHAAk=
+
+Name: lib/arm64-v8a/libqml_QtQuick_qtquick2plugin_arm64-v8a.so
+SHA-256-Digest: ociZCetWMQQ5jj8Ktoj0PNdA2sqDEnwZaPsor4siBNc=
+
+Name: lib/arm64-v8a/libsecp256k1.so
+SHA-256-Digest: nlLBO0DLVzZYlz6rr1BYxPwKMJtc05Vgi3BJXhaaTdc=
+
+Name: lib/arm64-v8a/libsqlite3.so
+SHA-256-Digest: Uj7p7vV2B8aoeRU+or8LGQFcUW8we6uE0wcyIr/4W0Q=
+
+Name: lib/arm64-v8a/libssl1.1.so
+SHA-256-Digest: sXPg/Y1DDUMVPnN2HuOaPzzMxf7nzmacO1DXiAEksOk=
+
+Name: lib/arm64-v8a/libzbar.so
+SHA-256-Digest: wpIoBD5r8VViTqQylUP27czWfiKKAojb2IFUgbKuBa4=
+
+Name: lib/arm64-v8a/libzxingcpp_android.so
+SHA-256-Digest: iPiWAMLvLDPlWhWhoj8T5+VveZ86NP3e1/H7IPM6oxY=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA-256-Digest: gIUcRtMYsM7cUbtNYJWtUdwWYp6lkO59X7rFsVw827s=
+
+Name: res/drawable-hdpi-v4/notification_bg_low_normal.9.png
+SHA-256-Digest: IfC1UoC+ELGHzv+O3vSlpwR2g+bp/PR95BCqODn0EJQ=
+
+Name: res/drawable-hdpi-v4/notification_bg_low_pressed.9.png
+SHA-256-Digest: Qq7gsDiD6U315UM0ijl9EwLBuCIYlYcag7gYmfWpZHs=
+
+Name: res/drawable-hdpi-v4/notification_bg_normal.9.png
+SHA-256-Digest: DGMox7JCBXCn7DizvrO6yaKdiVrBq3I5MVq6cmZBhZM=
+
+Name: res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png
+SHA-256-Digest: GLMo2AF+Z31arT29ZrrjVrXKyXjG8GcJOOpkjlHQ62Y=
+
+Name: res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png
+SHA-256-Digest: hDDsAD4APz8roveNSP0VDiVAdmflMOguh6fUhBwP1nY=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA-256-Digest: 8Cthau2vIRaLZyn5HXiIBYMU/8P2vsHBB5XaKO1ww1c=
+
+Name: res/drawable-mdpi-v4/notification_bg_low_normal.9.png
+SHA-256-Digest: L3+9oLpuU+mkfi/A4k4yxEfGE6WAjC1ihdxlHoOgetc=
+
+Name: res/drawable-mdpi-v4/notification_bg_low_pressed.9.png
+SHA-256-Digest: 4Xdh7SgO3ZPXFBvVBLcPnp4VqGUiiNnmMzv0zpZO+EQ=
+
+Name: res/drawable-mdpi-v4/notification_bg_normal.9.png
+SHA-256-Digest: qGdqF5OsgxD/sSmGIy32bfCS0pwkKu7cK3NVbAENONw=
+
+Name: res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png
+SHA-256-Digest: mcFNaFW4viltWAF9N1G43IScR7bR2Aq2FP+QdQgORhs=
+
+Name: res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png
+SHA-256-Digest: DXc+YsdWQiMTJihGx4flj2fg7ofkXhrplCAC6BbEy54=
+
+Name: res/drawable-v21/notification_action_background.xml
+SHA-256-Digest: qgUGVo0B6gsqoIS2rKiYxu9bR89BY0vkL6zr64rxDdU=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA-256-Digest: pDVQm7ED6lNeOBn6ZZINnmydxp0FBkHu2H22VaqU/vs=
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_normal.9.png
+SHA-256-Digest: PgmvohxFNywDVZjAF8j7QFptZ45suE3IV1gcs7QOSC0=
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png
+SHA-256-Digest: IDQyIvn3ndVlw6IkhJTUUucIIKwcQ3Fzw4ut1F+WKv0=
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal.9.png
+SHA-256-Digest: VZv3g9dlwCM46XlSvcnGaJx/+ZCQuMmBM2kRjaiwgPA=
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png
+SHA-256-Digest: 0nr0NRAcpMvsDIQL0waHkYzTnrg6qxSHQghVYjpFmYs=
+
+Name: res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png
+SHA-256-Digest: tE7to016Upwv5VcZ6wmPopcHyqkdGN4Gp6d11ua8+XM=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA-256-Digest: 4VAhhQSSEQJayUKNpx6tIJ2qW976aXUFOocNDkLFoYw=
+
+Name: res/drawable/icon.png
+SHA-256-Digest: ePpx1OtoPFjc2L6IsuhELVq5ESMFI2QjN6TLs+SDIEw=
+
+Name: res/drawable/notification_bg.xml
+SHA-256-Digest: NL3dGJqdEYYj+8Uhx7m9lEQjV3GFayouQWyDLd7babM=
+
+Name: res/drawable/notification_bg_low.xml
+SHA-256-Digest: Nj++KMCxLmqkO13A/DRDZ+2WnfIn4zQNC7fCx/XkDS0=
+
+Name: res/drawable/notification_icon_background.xml
+SHA-256-Digest: 7LiDGFGPzcs9C8x4InRD0Svu85G1AmQUHBlxYkYMWUg=
+
+Name: res/drawable/notification_tile_bg.xml
+SHA-256-Digest: hmEvCdb6EWd3AETRMlKHvLeeUXBIXiRvMXAVKxCos/8=
+
+Name: res/drawable/presplash.jpg
+SHA-256-Digest: 1zh4Ekm9MwjuzNAFN/5E0aFF5rGIMjODkPvIXcFeNfw=
+
+Name: res/drawable/splash.xml
+SHA-256-Digest: dB4wqwuXN38N90PcxEKaRj2ktlji/xluzfFOLCT25VA=
+
+Name: res/layout-v21/notification_action.xml
+SHA-256-Digest: FL04rNH3okkL5g96pUCsu6guO9ycGzMNl90zckp9KQI=
+
+Name: res/layout-v21/notification_action_tombstone.xml
+SHA-256-Digest: iFjq6T2TcUl0KlXMK7+rXjy3jF6cC4CMxMgUyUYbZnQ=
+
+Name: res/layout-v21/notification_template_custom_big.xml
+SHA-256-Digest: KMhOvCv/CS38V2AbAFbJH306KRm5ke5KV6Q9uEVPC4M=
+
+Name: res/layout-v21/notification_template_icon_group.xml
+SHA-256-Digest: tdZiEG84w0qeJTv/zB9ge3rDjUJkyyLao5dt0kQvAA0=
+
+Name: res/layout/chooser_item.xml
+SHA-256-Digest: uDiqwVTS/y6kPS3rSdEVP3WEaNZZYRo1vs0RDGrf3K4=
+
+Name: res/layout/main.xml
+SHA-256-Digest: tdMh4toamIfhZBf+gT+7LRWRvEGkvTO05SjgF9BoYbk=
+
+Name: res/layout/notification_template_part_chronometer.xml
+SHA-256-Digest: e2X/KHwc/gMtS6HX/JiArTbDL0YYHyn8M1PBsa0uzKU=
+
+Name: res/layout/notification_template_part_time.xml
+SHA-256-Digest: fMTaGyQgCDY6QW0jSXCNmfGV2dQNkQezppHHoYJHPQQ=
+
+Name: res/layout/project_chooser.xml
+SHA-256-Digest: iIxTCKZN1OrneFAvpJMpyZ9NsNHSjtLfn9xccYVfGQU=
+
+Name: res/layout/project_empty.xml
+SHA-256-Digest: 8IRcl+aoizRuODDLAQxu0vxlorSiBuJ8bsmNS8cDaX0=
+
+Name: res/layout/scanner_layout.xml
+SHA-256-Digest: I9VL+qZ4W2EzPRdfyJG9Np3wBqsydg3P9LkV4spkLus=
+
+Name: res/mipmap-anydpi-v26/icon.xml
+SHA-256-Digest: aFEuzQ9SIFs4Zoybi4QpMJy6W1WR6H0BPUv427NrWV0=
+
+Name: res/mipmap/icon.png
+SHA-256-Digest: ON4p6ZHHcHIMYJrmz0QYzVnI7G0go2RziAaJbHnJmiE=
+
+Name: res/mipmap/icon_background.png
+SHA-256-Digest: Aqb0Uh0GVhAzadbOPq9+MUKJs0L4tn2wBZKjxAntbYA=
+
+Name: res/mipmap/icon_foreground.png
+SHA-256-Digest: 9TAHaG+8+rvaTE6q3jFmQTY+O0otpnzURaIxukTHDSg=
+
+Name: resources.arsc
+SHA-256-Digest: hzwfLAmOK1pHZkg+bcFHskwySRsD7ydwxNeh+SXx2mg=
+
